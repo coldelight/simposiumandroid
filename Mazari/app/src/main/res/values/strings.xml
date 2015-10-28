@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Mazari</string>
+    <string name="facebook_app_id">960625214004605</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
 </resources>
